@@ -28,7 +28,7 @@ namespace TouchMeSkill.DotNet.Task6
                 {
                     case "+":
                         {
-                            Console.WriteLine("Результат сложения: " + operand1 + operand2);
+                            Console.WriteLine("Результат сложения: " + (operand1 + operand2));
                             canPars = true;
                         }
                         break;
