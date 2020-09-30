@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchMeSkill.DotNet.Task8",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchMeSkill.DotNet.Task9", "src\TouchMeSkill.DotNet.Task9\TouchMeSkill.DotNet.Task9.csproj", "{FF345B7D-65E7-4C4D-9CA9-118AB33A44A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchMeSkill.DotNet.Task10", "TouchMeSkill.DotNet.Task10\TouchMeSkill.DotNet.Task10.csproj", "{3582600C-BF38-492D-97CD-FCDFF5ED60F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +74,10 @@ Global
 		{FF345B7D-65E7-4C4D-9CA9-118AB33A44A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF345B7D-65E7-4C4D-9CA9-118AB33A44A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF345B7D-65E7-4C4D-9CA9-118AB33A44A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3582600C-BF38-492D-97CD-FCDFF5ED60F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3582600C-BF38-492D-97CD-FCDFF5ED60F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3582600C-BF38-492D-97CD-FCDFF5ED60F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3582600C-BF38-492D-97CD-FCDFF5ED60F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{BE9B808D-5965-48E6-8785-759546018922} = {ABF1C711-D775-48C8-8182-F30B2A0AB4DC}
 		{BC53AA22-0980-414F-92E8-33840ADB6C11} = {ABF1C711-D775-48C8-8182-F30B2A0AB4DC}
 		{FF345B7D-65E7-4C4D-9CA9-118AB33A44A1} = {ABF1C711-D775-48C8-8182-F30B2A0AB4DC}
+		{3582600C-BF38-492D-97CD-FCDFF5ED60F1} = {ABF1C711-D775-48C8-8182-F30B2A0AB4DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB361F5D-A586-489F-BE2A-9BA764BA63B1}
